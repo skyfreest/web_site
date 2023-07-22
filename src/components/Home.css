@@ -1,0 +1,12 @@
+.content {
+    width: 100%;
+    align-items: center;
+        background-color: rgb(237, 225, 212);
+        height: calc(80vh - 10px);
+        overflow-y: scroll;
+}
+
+p {
+    font-size:small ;
+    text-align: center;
+}
